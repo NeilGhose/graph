@@ -1,0 +1,1 @@
+This program shows how repeated integreation smooths out a curve
